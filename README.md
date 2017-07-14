@@ -14,13 +14,12 @@
 
 1. Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/) unless ```ruby -v ``` exists.
 2. Install [RVM](https://rvm.io/rvm/install) unless ```rvm info``` exists.
-3. Install [Homebrew](https://brew.sh/).
-4. Install [Chrome](https://www.google.com/chrome/browser/desktop/index.html) browser.
-5. ```git@github.com:richdownie/cukehub_testathon.git``` How to [clone](https://help.github.com/articles/cloning-a-repository/) a git repository.
-6. ```cd cukehub_testathon```
-7. ```gem install bundler```
-8. ```bundle install```
-9. ```cucumber features```
+3. Install [Chrome](https://www.google.com/chrome/browser/desktop/index.html) browser.
+4. ```git@github.com:richdownie/cukehub_testathon.git``` How to [clone](https://help.github.com/articles/cloning-a-repository/) a git repository.
+5. ```cd cukehub_testathon```
+6. ```gem install bundler```
+7. ```bundle install```
+8. ```cucumber features```
 
 
 ### Git Flow (branch and merge)
