@@ -1,3 +1,6 @@
+#What is CukeHub Testathon?
+###[Here is a post about it.](https://medium.com/@CukeHub/cukehub-testathon-2f44db11fe5) 
+
 ### Install Ruby
 * How to Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/windows/) on Windows 
 * How to Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/mac/10.10/) on OSX 
