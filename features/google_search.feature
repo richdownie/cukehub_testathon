@@ -1,3 +1,4 @@
+@search
 Feature: Google Search Scenarios
 
 Scenario: I search for the CukeHub twitter account
